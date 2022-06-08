@@ -1,0 +1,27 @@
+.bg-dark {
+    background-color: #0e0e0e!important;
+}
+
+.alert {
+    margin-bottom: 0 !important;
+}
+
+.form-container {
+    border: 2px solid black;
+    padding: 30px;
+}
+
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.card-deck {
+    margin: 0 20px;
+}
+
+.card {
+    border: 2px solid rgb(0 0 0);
+    border-radius: 0 !important;
+}
